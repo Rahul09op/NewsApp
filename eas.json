@@ -3,8 +3,8 @@
     "version": ">= 3.0.0"
   },
   "build": {
-    "release": {
-      "android": {
+    "android": {
+      "release": {
         "workflow": "managed",
         "buildType": "apk"
       }
