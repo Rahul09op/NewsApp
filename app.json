@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "NewsApp",
+    "slug": "newsapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.rp.newsapp"
+    }
+  }
+}
